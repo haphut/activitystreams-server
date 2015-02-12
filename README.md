@@ -20,4 +20,6 @@ npm test
 npm start
 ```
 
+The server will be available at `http://localhost:8080/`.
+
 Or see it running live on Bluemix at http://activitystreams-server.mybluemix.net/.
